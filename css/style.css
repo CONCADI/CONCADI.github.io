@@ -2322,8 +2322,8 @@ a:focus {
 
 .whatsapp {
     position: fixed;
-    right: 1px;
-    bottom: 47%;
+    right: 10px;
+    bottom: 10px;
     z-index: 10;
 }
 
