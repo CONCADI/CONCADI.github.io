@@ -2319,3 +2319,14 @@ a:focus {
     min-height: 100vh;
     margin: auto 0;
 }
+
+.whatsapp {
+    position: fixed;
+    right: 1px;
+    bottom: 47%;
+    z-index: 10;
+}
+
+.whatsapp img {
+    max-width: 50px;
+}
